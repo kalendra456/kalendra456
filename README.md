@@ -1,6 +1,6 @@
 <!-- TOP DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Yaswanth%20Kalendra%20Kukkala&fontAlign=50&fontAlignY=40&desc=Offensive%20Security%20%7C%20Bug%20Bounty%20Hunter%20%7C%20SOC%20%26%20AppSec&descAlign=50&descAlignY=60" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=180&text=Yaswanth%20Kalendra%20Kukkala&fontAlign=50&fontAlignY=40&desc=Offensive%20Security%20%7C%20Bug%20Bounty%20Hunter%20%7C%20SOC%20%26%20AppSec&descAlign=50&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&height=160&text=Yaswanth%20Kalendra%20Kukkala&fontSize=42&fontAlign=50&fontAlignY=45&width=1200)" />
 </p>
 
 <!-- CLICK TO OPEN (optional like the profile you shared) -->
