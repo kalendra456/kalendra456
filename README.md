@@ -40,17 +40,6 @@
 
 ---
 
-## 🏆 HALL OF FAME & RECOGNITIONS
-> Add screenshots/logos here (keep it clean and spaced)
-
-<p align="center">
-  <img height="55" src="https://img.shields.io/badge/SAP-ACK-success" />
-  <img height="55" src="https://img.shields.io/badge/Accenture-Hall%20of%20Fame-success" />
-  <img height="55" src="https://img.shields.io/badge/Aldi-Hall%20of%20Fame-success" />
-  <img height="55" src="https://img.shields.io/badge/Drexel-Hall%20of%20Fame-success" />
-</p>
-
----
 
 ## ⚡ TECHNICAL STRENGTHS
 
