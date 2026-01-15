@@ -11,17 +11,32 @@
 ---
 
 ## 👋 ABOUT ME
-- 🛡️ Cybersecurity professional focused on **Offensive Security / VAPT / Application Security**
+- 🛡️ Cybersecurity professional with experience across **Offensive Security, VAPT, SOC & Information Security**
 - 🧪 Active **Bug Bounty Hunter** with acknowledgments & Hall of Fame recognitions
-- 🔎 Skilled in **Web, API, Network, Cloud** security testing (OWASP Top 10)
-- 🛠️ Experience with **SAST/DAST**, recon automation, and security tooling
+- 🔎 Skilled in **Web, API, Network & Cloud** security testing (OWASP Top 10)
+- 🖥️ Hands-on SOC exposure: **monitoring, alert triage, incident analysis, log correlation**
+- 🛠️ Experience with **SAST/DAST**, recon automation, SIEM/EDR tooling, and security operations
 
 ---
 
 ## 🧨 Highlights
 - ✅ Hall of Fame recognitions (SAP, Accenture, Aldi, Drexel, etc.)
-- ✅ Built/used SOC monitoring stacks (Zabbix, Wazuh, Grafana)
-- ✅ Strong interest in OSCP + advanced offensive security growth
+- ✅ SOC experience with real-world monitoring & alert handling
+- ✅ Built and managed monitoring stacks (**Zabbix, Wazuh, Grafana**)
+- ✅ Exposure to firewall, endpoint & infrastructure security
+- ✅ Strong interest in **OSCPCE / OSCP / advanced offensive security growth**
+
+---
+
+### 🟦 SOC / Information Security
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx" />
+</p>
+
+- SIEM & EDR: **Wazuh**, log analysis, alert correlation  
+- Monitoring: **Zabbix**, Grafana dashboards, infra health  
+- Network Security: Firewall rules, traffic analysis, exposure review  
+- Incident Response: Initial triage, root cause analysis, remediation support  
 
 ---
 
