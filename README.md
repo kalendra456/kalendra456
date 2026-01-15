@@ -28,14 +28,6 @@
 
 ---
 
-## 🧾 Disclosures / Writeups (Optional)
-| Title | Severity | Status | Link |
-|------|----------|--------|------|
-| Example: Public metrics exposure | Medium | ✅ Reported | (add link) |
-| Example: OAuth client leak | High | ✅ Reported | (add link) |
-
----
-
 ## 🏆 HALL OF FAME & RECOGNITIONS
 > Add screenshots/logos here (keep it clean and spaced)
 
@@ -64,13 +56,6 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css" />
 </p>
 
----
-
-## 📊 GitHub Stats (Optional)
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-</p>
 
 ---
 
