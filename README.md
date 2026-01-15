@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Yaswanth%20Kalendra%20Kukkala&fontSize=42&fontAlign=50&fontAlignY=45&width=1200" />
 </p>
 
-<!-- CLICK TO OPEN (optional like the profile you shared) -->
-<p align="center"><b>Click & Open To See : )</b></p>
-
 <!-- TYPING SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=800&lines=Bug+Bounty+Hunter+%7C+Offensive+Security;Web+%7C+API+%7C+Network+Security;LLM+%26+AI+Security+%7C+AppSec+Mindset;Tools+change.+Mindset+doesn%E2%80%99t." />
