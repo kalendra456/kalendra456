@@ -75,9 +75,15 @@
 > Available for Freelance Security Assessments, Full-Time / Contract Roles, Bug Bounty Collaboration
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-black" /></a>
+  <a href="https://www.linkedin.com/in/yaswanth-kalendra-kukkala-37b7701a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+  </a>
+  <a href="mailto:yaswanthkukkala123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red" />
+  </a>
+  <a href="https://github.com/kalendra456" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black" />
+  </a>
 </p>
 
 <p align="center"><b>Let’s break it before attackers do.</b></p>
